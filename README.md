@@ -8,6 +8,6 @@
 | Design Fundamentals With AI | UNICEF | [Certificate of AI Design.pdf](https://github.com/user-attachments/files/34966027/Certificate.of.AI.Design.pdf) |
 | C & C++ | Udemy | [View](ude.my/UC-54e843b9-710b-48f0-9ccb-3d85c269483a) |
 | AI Tools & Claude | Be10x | [View](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971911530)
-| Introduction To Cyber Security | Cisco Networking Academy |  [View](78855425-6dea-41e1-a903-68d843b72bef)
+| Introduction To Cyber Security | Cisco Networking Academy |  [View](https://www.credly.com/badges/b8eea0b8-c49e-4fb1-907b-d9a0ec324639/public_url)
 | Power BI Micro Course | SkillCourse | [View](https://edu.skillcourse.in/view-certificate/SC-35VJ4T9MNQ)
 | Python With AI: Mini Course | SkillEcted |  [View](FUVVMYJY)
