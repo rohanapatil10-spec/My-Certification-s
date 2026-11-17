@@ -10,4 +10,4 @@
 | AI Tools & Claude | Be10x | [View](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971911530)
 | Introduction To Cyber Security | Cisco Networking Academy |  [View](https://www.credly.com/badges/b8eea0b8-c49e-4fb1-907b-d9a0ec324639/public_url)
 | Power BI Micro Course | SkillCourse | [View](https://edu.skillcourse.in/view-certificate/SC-35VJ4T9MNQ)
-| Python With AI: Mini Course | SkillEcted |  [View](FUVVMYJY)
+| Python With AI: Mini Course | SkillEcted |  [Python With AI Certification.pdf](https://github.com/user-attachments/files/34966851/Python.With.AI.Certification.pdf)
